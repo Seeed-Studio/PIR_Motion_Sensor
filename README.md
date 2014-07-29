@@ -1,4 +1,4 @@
-Grove_PIR_Motion_Sensor
+PIR_Motion_Sensor
 -------------------------------------------------------------
 ![image](http://www.seeedstudio.com/wiki/images/3/3e/PIR_Motion.jpg)
 
@@ -15,10 +15,7 @@ Contributing to this software is warmly welcomed. You can do this basically by<b
 for operating guide). Adding change log and your contact into file header is encouraged.<br>
 Thanks for your contribution.
 
-Seeed Studio is an open hardware facilitation company based in Shenzhen, China. <br>
-Benefiting from local manufacture power and convenient global logistic system, <br>
-we integrate resources to serve new era of innovation. Seeed also works with <br>
-global distributors and partners to push open hardware movement.<br>
+Seeed is a hardware innovation platform for makers to grow inspirations into differentiating products. By working closely with technology providers of all scale, Seeed provides accessible technologies with quality, speed and supply chain knowledge. When prototypes are ready to iterate, Seeed helps productize 1 to 1,000 pcs using in-house engineering, supply chain management and agile manufacture forces. Seeed also team up with incubators, Chinese tech ecosystem, investors and distribution channels to portal Maker startups beyond.
 
 
 [1]:http://www.seeedstudio.com/wiki/Grove_-_PIR_Motion_Sensor
