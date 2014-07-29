@@ -23,4 +23,4 @@ Seeed is a hardware innovation platform for makers to grow inspirations into dif
 
 
 
-[![Analytics](https://ga-beacon.appspot.com/UA-46589105-3/Grove_PIR_Motion_Sensor)](https://github.com/igrigorik/ga-beacon)
+[![Analytics](https://ga-beacon.appspot.com/UA-46589105-3/PIR_Motion_Sensor)](https://github.com/igrigorik/ga-beacon)
