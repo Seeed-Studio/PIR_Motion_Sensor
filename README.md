@@ -1,6 +1,6 @@
 PIR_Motion_Sensor
 -------------------------------------------------------------
-![image](http://www.seeedstudio.com/wiki/images/3/3e/PIR_Motion.jpg)
+![image](https://github.com/SeeedDocument/Grove_PIR_Motion_Sensor/raw/master/images/Grove_-_PIR_Motion_Sensor.jpg)
 
 This is a simple to use PIR motion sensor with Grove compatible interface. This sensor allows you to sense motion, usually human movement in its range. Simply connect it to Grove - Base shield and program it, when anyone moves in its detecting range, the sensor will output HIGH on its SIG pin. The detecting range and response speed can be adjusted by 2 potentiometers soldered on its circuit board. The response speed is from 0.3s - 25s, and max 6 meters of detecting range. 
 
