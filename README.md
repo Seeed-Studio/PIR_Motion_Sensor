@@ -1,10 +1,14 @@
 PIR_Motion_Sensor
 -------------------------------------------------------------
-![image](https://github.com/SeeedDocument/Grove_PIR_Motion_Sensor/raw/master/images/Grove_-_PIR_Motion_Sensor.jpg)
+
+![](https://statics3.seeedstudio.com/images/product/Grove%20-%20PIR%20Motion%20Sensor.jpg)
+
+[Grove - PIR Motion Sensor
+](https://www.seeedstudio.com/s/Grove-PIR-Motion-Sensor-p-802.html)
 
 This is a simple to use PIR motion sensor with Grove compatible interface. This sensor allows you to sense motion, usually human movement in its range. Simply connect it to Grove - Base shield and program it, when anyone moves in its detecting range, the sensor will output HIGH on its SIG pin. The detecting range and response speed can be adjusted by 2 potentiometers soldered on its circuit board. The response speed is from 0.3s - 25s, and max 6 meters of detecting range. 
 
-For more information, please refer to [Grove_PIR_Motion_Sensor][1]
+For more information, please refer to [wiki][1]
 
 ----
 This software is written by Frankie Chu for seeed studio<br>
@@ -18,7 +22,7 @@ Thanks for your contribution.
 Seeed is a hardware innovation platform for makers to grow inspirations into differentiating products. By working closely with technology providers of all scale, Seeed provides accessible technologies with quality, speed and supply chain knowledge. When prototypes are ready to iterate, Seeed helps productize 1 to 1,000 pcs using in-house engineering, supply chain management and agile manufacture forces. Seeed also team up with incubators, Chinese tech ecosystem, investors and distribution channels to portal Maker startups beyond.
 
 
-[1]:http://www.seeedstudio.com/wiki/Grove_-_PIR_Motion_Sensor
+[1]:http://wiki.seeedstudio.com/Grove-PIR_Motion_Sensor/
 
 
 
